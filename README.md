@@ -65,26 +65,6 @@ https://ryabovaev.github.io/NaturalArtifacts/
 
 </details>
 
-
-
-<details>
-<summary><strong>F & B — Коллекция природных артефактов</strong></summary>
-
-https://ryabovaev.github.io/NaturalArtifacts/
-
-Интерактивный адаптивный сайт-галерея.
-
-**Технологии:** HTML, SCSS, JavaScript, Vite, Swiper, БЭМ
-
-**Реализовано:**
-- адаптивная верстка
-- SEO-оптимизация
-- accessibility
-- валидация форм
-- слайдер на Swiper
-
-</details>
-
 ---
 
 <details>
