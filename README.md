@@ -7,6 +7,44 @@
 ## Проекты
 
 <details>
+<summary><strong>Avto CRM</strong></summary>
+
+Система управления маршрутами и расписанием для автотранспортной компании. CRM приложение для управления новостями, расписанием маршрутов и информацией о компании.
+
+### 🛠️ Технологический стек
+
+- **Frontend**: Next.js 16, React 19, TypeScript
+- **Backend**: Next.js API Routes, Prisma ORM
+- **База данных**: PostgreSQL
+- **Стили**: Tailwind CSS 4
+- **UI компоненты**: Lucide React icons
+- **Валидация**: Zod
+- **Редактор**: MD Editor (для новостей)
+- **Темы**: next-themes
+
+---
+
+<details>
+<summary><strong>F & B — Коллекция природных артефактов</strong></summary>
+
+https://ryabovaev.github.io/NaturalArtifacts/
+
+Интерактивный адаптивный сайт-галерея.
+
+**Технологии:** HTML, SCSS, JavaScript, Vite, Swiper, БЭМ
+
+**Реализовано:**
+- адаптивная верстка
+- SEO-оптимизация
+- accessibility
+- валидация форм
+- слайдер на Swiper
+
+</details>
+
+---
+
+<details>
 <summary><strong>Автобусные перевозки — корпоративный сайт</strong></summary>
   
 [https://www.kpap.ru](https://u1635645.isp.regruhosting.ru/)
